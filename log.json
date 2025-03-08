@@ -2,16 +2,16 @@
     {
         "request": "POST https://reqres.in/api/users/",
         "requestBody": "{\"name\":\"Qosheiry\",\"job\":\"leader\"}",
-        "response": "{\"name\":\"Qosheiry\",\"job\":\"leader\",\"id\":\"380\",\"createdAt\":\"2025-03-08T19:00:23.655Z\"}"
+        "response": "{\"name\":\"Qosheiry\",\"job\":\"leader\",\"id\":\"554\",\"createdAt\":\"2025-03-08T19:42:35.434Z\"}"
     },
     {
-        "request": "GET https://reqres.in/api/users/380",
+        "request": "GET https://reqres.in/api/users/554",
         "requestBody": "",
         "response": "{}"
     },
     {
-        "request": "PUT https://reqres.in/api/users/380",
+        "request": "PUT https://reqres.in/api/users/554",
         "requestBody": "{\"name\":\"QosheiryUpdated\",\"job\":\"leaderUpdated\"}",
-        "response": "{\"name\":\"QosheiryUpdated\",\"job\":\"leaderUpdated\",\"updatedAt\":\"2025-03-08T19:00:24.645Z\"}"
+        "response": "{\"name\":\"QosheiryUpdated\",\"job\":\"leaderUpdated\",\"updatedAt\":\"2025-03-08T19:42:36.397Z\"}"
     }
 ]
